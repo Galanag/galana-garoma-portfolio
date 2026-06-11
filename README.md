@@ -26,6 +26,11 @@ A modern, fully responsive portfolio website built with **PHP**, **SQLite**, **T
 - **Database**: SQLite (file‑based, no extra server)
 - **Version Control**: Git + GitHub
 
+## Live Website
+<img width="1858" height="1009" alt="image" src="https://github.com/user-attachments/assets/69a767f2-3ab3-4221-94dc-29c05cc588e6" />
+You can check the live website protfolio here: https://galana-garoma.ijadevelopers.com/
+
+
 ## 🚀 Local Setup
 
 1. **Clone the repository**  
