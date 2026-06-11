@@ -1,0 +1,23 @@
+# SQLite database (contains contact messages – do NOT commit)
+database.sqlite
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.sublime-*
+
+# Logs
+*.log
+error_log
+
+# Composer (if you later add PHPMailer etc.)
+vendor/
+composer.lock
+
+# Temporary files
+*.tmp
+*.cache
